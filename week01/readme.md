@@ -35,3 +35,10 @@
 	+ mouseX, mouseY
 	+ width, height
 	+ random()
+
+### Homework
+
++ Quiz/Challenge 1
+	+ Create a work of experimental, generative video art using what we went over in class. The point of this is to gain familiarity, so set some goals and try to work them out. Spend an hour on this.
++ Read
+	+ Learning Processing ch 1-2 (on Blackboard)
