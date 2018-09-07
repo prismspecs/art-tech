@@ -35,6 +35,10 @@
 	+ mouseX, mouseY
 	+ width, height
 	+ random()
++ Review Dan Shiffman videos (especially  if you missed class)
+	+ Remember that each section has multiple videos!!
+	+ [Section 1](https://www.youtube.com/watch?v=a562vsSI2Po&list=PLRqwX-V7Uu6bsRnSEJ9tRn4V_XCGXovs4)
+	+ [Section 2](https://www.youtube.com/watch?v=5N31KNgOO0g)
 
 ### Homework
 
