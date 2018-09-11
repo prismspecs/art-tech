@@ -39,6 +39,7 @@
 	+ Remember that each section has multiple videos!!
 	+ [Section 1](https://www.youtube.com/watch?v=a562vsSI2Po&list=PLRqwX-V7Uu6bsRnSEJ9tRn4V_XCGXovs4)
 	+ [Section 2](https://www.youtube.com/watch?v=5N31KNgOO0g)
+	+ [Section 3 - Interaction (setup and draw)](https://www.youtube.com/watch?v=o8dffrZ86gs&list=PLRqwX-V7Uu6by61pbhdvyEpIeymlmnXzD)
 
 ### Homework
 
