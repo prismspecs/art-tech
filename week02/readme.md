@@ -3,6 +3,11 @@
 ## Announcements
 	+ Join [Arts&Tech](https://join.slack.com/t/oberlin-art-tech/shared_invite/enQtNDMxMjM3MTY3Mjk5LTMwNWJkOTM0ZTE5YzJmOTljYzliNmIyN2VhYjFhZDI2NDQ5OTVjYjQ4NzFjYjBlMzgyNGZlNTQxYWNjMGNmNzk) Slack channel
 
+## Relevant work
+
++ [Graffiti Research Lab](http://www.graffitiresearchlab.com/blog/)
+	+ [LASER Tag](http://www.graffitiresearchlab.com/blog/projects/laser-tag/)
+
 ## Tuesday
 
 ### Processing Lab
