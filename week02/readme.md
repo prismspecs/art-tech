@@ -8,6 +8,7 @@
 
 + [Graffiti Research Lab](http://www.graffitiresearchlab.com/blog/)
 	+ [LASER Tag](http://www.graffitiresearchlab.com/blog/projects/laser-tag/)
++ [Zach Lieberman](https://www.instagram.com/zach.lieberman/?hl=en)
 
 ## Tuesday
 
