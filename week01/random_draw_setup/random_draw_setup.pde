@@ -30,4 +30,4 @@ void draw() {
 }
 
 // random(width) will spit out a number between 0
-// and the right side of the screen (width)
+// and the right side of the screen (widqth)

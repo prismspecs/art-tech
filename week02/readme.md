@@ -1,7 +1,8 @@
 # week02
 
 ## Announcements
-	+ Join [Arts&Tech](https://join.slack.com/t/oberlin-art-tech/shared_invite/enQtNDMxMjM3MTY3Mjk5LTMwNWJkOTM0ZTE5YzJmOTljYzliNmIyN2VhYjFhZDI2NDQ5OTVjYjQ4NzFjYjBlMzgyNGZlNTQxYWNjMGNmNzk) Slack channel
+
++ Join [Arts&Tech](https://join.slack.com/t/oberlin-art-tech/shared_invite/enQtNDMxMjM3MTY3Mjk5LTMwNWJkOTM0ZTE5YzJmOTljYzliNmIyN2VhYjFhZDI2NDQ5OTVjYjQ4NzFjYjBlMzgyNGZlNTQxYWNjMGNmNzk) Slack channel
 
 ## Relevant work
 
