@@ -6,6 +6,11 @@
 
 ## Relevant work
 + Sol Lewitt
+	+ [wall drawing instructions](https://massmoca.org/sol-lewitt/)
+	+ [more wall drawings](https://www.fundacionbotin.org/89dguuytdfr276ed_uploads/2015_07_17_09_45_54.pdf)
+	+ [even more](https://artgallery.yale.edu/sites/default/files/pr/pdf/lewitt_expanding_legacy_image_sheet.pdf)
+	+ [and more](https://www.centrepompidou-metz.fr/sites/default/files/issuu/dp_slw_en.pdf)
+	+ [gallery techs installing his work](https://www.youtube.com/watch?v=c4cgB4vJ2XY)
 
 ## Tuesday
 
