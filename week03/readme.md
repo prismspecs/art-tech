@@ -25,8 +25,8 @@
 
 ## Thursday
 
-	+ Discuss
-		+ [Casey Reas, excerpt from Software & Art](http://artport.whitney.org/commissions/softwarestructures/text.html)
++ Discuss
+	+ [Casey Reas, excerpt from Software & Art](http://artport.whitney.org/commissions/softwarestructures/text.html)
 
 ### Homework
 
