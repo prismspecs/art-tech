@@ -2,7 +2,7 @@
 
 ## Announcements
 
-+ Participate in the [Arts&Tech](https://join.slack.com/t/oberlin-art-tech/shared_invite/enQtNDMxMjM3MTY3Mjk5LTMwNWJkOTM0ZTE5YzJmOTljYzliNmIyN2VhYjFhZDI2NDQ5OTVjYjQ4NzFjYjBlMzgyNGZlNTQxYWNjMGNmNzk) Slack channel
++ Participate in the [Arts&Tech](https://oberlin-art-tech.slack.com/messages/CCPF5R91B/) Slack channel
 
 ## Relevant work
 + Sol Lewitt
@@ -31,4 +31,4 @@
 ### Homework
 
 + Project 1 v1 (due Thursday)
-+ Re-create 2 Sol Lewitt Line Drawings using Processing and post to Slack Channel
++ Re-create 2 Sol Lewitt Line Drawings using Processing and post to Slack Channel (by next week)
