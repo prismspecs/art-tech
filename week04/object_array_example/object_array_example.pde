@@ -11,5 +11,5 @@ void draw() {
 }
 
 void mousePressed() {
-  things.add(new Thing(mouseX, mouseY));
+  things.add(new Thing());
 }

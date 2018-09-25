@@ -2,10 +2,10 @@ class Thing {
 
   float x, y;
 
-  Thing(float mX, float mY) {
+  Thing() {
     
-    x = mX;
-    y = mY;
+    x = mouseX;
+    y = mouseY;
     
   }
 
