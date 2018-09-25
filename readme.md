@@ -10,7 +10,7 @@
 
 ## Description
 
-This course is an introduction to creative technology. This is a hands-on exploration of programming, prototyping, fabrication, and electronics with an emphasis on "physical computing," the process of connecting offline objects to digital potential. Topics include communicating between digital and physical systems, installation design, 3D printing, projection mapping, up-cycling discarded electronics, and the new modes of activism these topics enable. This class is a studio/seminar hybrid, so students should be prepared to read, discuss, create, and critique. 
+This course is an introduction to creative technology. This is a hands-on exploration of programming, prototyping, fabrication, and electronics with an emphasis on "physical computing," the process of connecting offline objects to digital potential. Topics include communicating between digital and physical systems, installation design, 3D printing, projection mapping, up-cycling discarded electronics, and the new modes of activism these topics enable. This class is a studio/seminar hybrid, so students should be prepared to read, discuss, create, and critique.
 
 ## Learning Goals
 
@@ -45,7 +45,7 @@ College is an incredible time of discovery, opportunity, and excitement. College
 
 ## Media Lab & Etiquette
 
-You will need to use the Media Lab outside of class in order to complete your projects. Please refer to the lab monitor hours on the door. 
+You will need to use the Media Lab outside of class in order to complete your projects. Please refer to the lab monitor hours on the door.
 
 Keep the Media Lab neat and tidy. Remember that this is a shared workspace, and to be courteous of other students and their projects.
 
@@ -118,10 +118,7 @@ This syllabus is subject to change. Students who miss class are responsible for 
 
 ### w4 (9/25, 9/27)
 
-+ Exhibit Project 1 v2
-
-+ Discuss
-	+ [Disobedient Electronics](http://www.disobedientelectronics.com/resources/Hertz-Disobedient-Electronics-Protest-201801081332c.pdf)
++ Wrap up Processing (for now)
 
 + Arduino Lab (Banzi ch 1-3)
 	+ Introduction to Arduino
@@ -129,7 +126,7 @@ This syllabus is subject to change. Students who miss class are responsible for 
 ### w5 (10/2, 10/4)
 
 + Discuss
-	+ [Interview with Natalie Jeremijenko](http://www.situatedtechnologies.net/files/ST3-SituatedAdvocacy_web.pdf)
+	+ [Disobedient Electronics](http://www.disobedientelectronics.com/resources/Hertz-Disobedient-Electronics-Protest-201801081332c.pdf)
 
 + Arduino Lab (Banzi ch 4-6)
 	+ Arrays
@@ -138,7 +135,10 @@ This syllabus is subject to change. Students who miss class are responsible for 
 
 ### w6 (10/9, 10/11)
 
-+ 3d Printing & Sketchup
++ Discuss
+	+ [Interview with Natalie Jeremijenko](http://www.situatedtechnologies.net/files/ST3-SituatedAdvocacy_web.pdf)
+
++ 3d Printing & SketchUp
 
 + Homework
 	+ Create a 3d print that augments your immediate environment
