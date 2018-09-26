@@ -8,4 +8,4 @@ Each quiz question should be saved as an individual Processing sketch. I will ch
 
 3. Create a sketch that draws a circle with a random color to a random position in the window every time the x key is pressed on the keyboard. Previously drawn circles should remain visible. Make it so that when the b key is pressed, the sketch is erased to a random background color.
 
-4. Create a sketch with a circle at the center. The circle starts at 1 pixel in diameter and grows until it reaches the edges of the sketch window. The circle then shrinks until it is 1 pixel in diameter and the process repeats itself.
+4. Create a sketch with a rectangle at the center. The rectangle starts at 1 pixel wide and tall and grows until it reaches the edges of the sketch window. The rectangle then shrinks until it is 1 pixel wide and tall and the process repeats itself.
