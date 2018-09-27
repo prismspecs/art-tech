@@ -23,8 +23,19 @@
 
 ## Thursday
 
-+
++ Intro to TIMARA
++ Intro to Arduino
+	+ Breadboard
+	+ Microcontroller
+	+ Wires
+	+ Arduino IDE
+	+ LED
+	+ resistors
+	+ Blink!
+	+ More blinking!
 
-### Homework
+## Homework
 
-+
++ Read
+	+ [Disobedient Electronics](http://www.disobedientelectronics.com/resources/Hertz-Disobedient-Electronics-Protest-201801081332c.pdf)
+	+ Banzi - Getting Started w Arduino (via Library eBook) ch 1-3
