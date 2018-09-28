@@ -23,6 +23,12 @@
 
 ## Thursday
 
++ Important links for TIMARA
+	+ [Form to request access to check out items from makerspace ](https://docs.google.com/forms/d/e/1FAIpQLSfboApGpUfb68nwdIRfQ2hSBKG7GwTWl6xm-lX8QDmrUXbZ2g/viewform)
+	+ [TIMARA Wiki](https://sites.google.com/oberlin.edu/timarawiki/)
+	+ [Makerspace policies](https://sites.google.com/oberlin.edu/timarawiki/studio-information-and-faq/maker-space?authuser=0)
+	+ [Gear Depot checkout form](https://docs.google.com/forms/d/e/1FAIpQLSc4hXu_DpzVMbGD3jlplV5UcwrP7G3BdNj1AaNh7iGPLT-7oA/viewform)
+
 + Intro to TIMARA
 + Intro to Arduino
 	+ Breadboard
