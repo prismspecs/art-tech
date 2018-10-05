@@ -20,5 +20,22 @@
 
 ### Arduino Lab
 
++ Making noise with the Arduino
+
+## Thursday
+
++ Electronics symbols
+	+ Resistor
+	+ LED
+	+ Ground (GND)
+	+ Voltage
+
++ Intro to Random on the Arduino
+
++ Create an electronic die. Every time the Arduino is reset, generate a new number and represent it with LEDs
 
 ## Homework
+
++ Create a symphony using the Arduino and a speaker (Due Thurs)
++ Create a new ambulance siren, including light and sound. Record it and bring it into class.
+	+ You may run into an issue trying to have both happen at the same time. What do you think causes this? What are some strategies to get around this problem? (Due Tues)
