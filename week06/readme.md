@@ -19,6 +19,19 @@
 + [Potentiometers](https://www.arduino.cc/en/tutorial/potentiometer)
 + [Photoresistors](https://www.arduino.cc/en/Tutorial/AnalogInput)
 
++ Topics covered
+	+ Using variables to keep track of pins
+	```int speakerPin = 7;
+  pinMode(speakerPin, OUTPUT);
+	```
+	+ potentiometer - analogRead
+		+ Note that analog pins don't require pinMode
+	![test](potentiometer.png)
+	+ Serial.println() takes some time to run, so it can mess with the timing of your sketch
+	+ map() function (works just like Processing)
+	+ photoresistor - analogRead
+
+
 ## Thursday
 
 + Discuss
