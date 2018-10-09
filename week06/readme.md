@@ -31,10 +31,18 @@ Wiring diagrams:
 	```
 	+ potentiometer - analogRead
 		+ Note that analog pins don't require pinMode
+	+ multimeter (volt and resistance measuring tool)
 	+ Serial.println() takes some time to run, so it can mess with the timing of your sketch
 	+ map() function (works just like Processing)
 	+ photoresistor - analogRead
+		+ build a light detector that turns on an LED (or otherwise reacts) to light being off in the room
+			+ threshold
+			+ conditional logic based on sensor input
 
++ Suggestions using pots and photoresistors
+	+ Theramin
+	+ Light blinking pattern based on potentiometer
+	+ Use both sensors to drive sound or light output
 
 ## Thursday
 
@@ -42,3 +50,5 @@ Wiring diagrams:
 	+ [Interview with Natalie Jeremijenko](http://www.situatedtechnologies.net/files/ST3-SituatedAdvocacy_web.pdf)
 
 ## Homework
+
++
