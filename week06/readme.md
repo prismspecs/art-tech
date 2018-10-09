@@ -25,7 +25,8 @@ Wiring diagrams:
 
 + Topics covered
 	+ Using variables to keep track of pins
-	```int speakerPin = 7;
+	```c
+	int speakerPin = 7;
   pinMode(speakerPin, OUTPUT);
 	```
 	+ potentiometer - analogRead
