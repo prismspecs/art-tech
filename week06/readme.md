@@ -16,6 +16,10 @@
 
 ### Arduino Lab
 
+Wiring diagrams:
+![potentiometer](potentiometer.png)
+![photoresistor](photoresistor.png)
+
 + [Potentiometers](https://www.arduino.cc/en/tutorial/potentiometer)
 + [Photoresistors](https://www.arduino.cc/en/Tutorial/AnalogInput)
 
@@ -26,7 +30,6 @@
 	```
 	+ potentiometer - analogRead
 		+ Note that analog pins don't require pinMode
-	![test](potentiometer.png)
 	+ Serial.println() takes some time to run, so it can mess with the timing of your sketch
 	+ map() function (works just like Processing)
 	+ photoresistor - analogRead
