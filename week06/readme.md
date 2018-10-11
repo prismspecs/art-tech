@@ -50,6 +50,13 @@ Wiring diagrams:
 + Discuss
 	+ [Interview with Natalie Jeremijenko](http://www.situatedtechnologies.net/files/ST3-SituatedAdvocacy_web.pdf)
 
++ Arduino Lab
+	+ Analog circuits
+		+ [Why short circuits are bad](https://learn.sparkfun.com/tutorials/what-is-a-circuit/short-and-open-circuits)
+	+ Buttons!
+		+ [Wired using a pulldown resistor](https://www.arduino.cc/en/Tutorial/Button)
+		+ [Wired using a pullup resistor](https://learn.sparkfun.com/tutorials/pull-up-resistors)
+
 ## Homework
 
 +
