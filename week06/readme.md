@@ -56,7 +56,11 @@ Wiring diagrams:
 	+ Buttons!
 		+ [Wired using a pulldown resistor](https://www.arduino.cc/en/Tutorial/Button)
 		+ [Wired using a pullup resistor](https://learn.sparkfun.com/tutorials/pull-up-resistors)
+	+ [Servo motors](https://www.arduino.cc/en/Reference/Servo)
+		+ Wire a potentiometer and servo motor, and program it such that as you turn the potentiomer, the servo also moves. [Here's a tutorial](https://www.arduino.cc/en/Tutorial/Knob)
+	+ DC motors
+		+ DC motors are controlled just like LEDs
 
 ## Homework
 
-+
++ Create a "one man band" Arduino, inspired by [this dude from Mary Poppins](https://www.youtube.com/watch?v=iXeXHJdP8Kk). The goal is to use *as many sensors and actuators as possible*
