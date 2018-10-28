@@ -46,5 +46,5 @@ NO CLASS
 
 + Create a guide for a component in your kit that we have not yet used in class *(DUE 10/30 !!!)*
 	+ Take photos, write a doc, explain the component so that other students could use your guide to get it working!
-	+ [Here's a PDF guide](../KitPDF.zip) for your kit to get started
+	+ [Here's a PDF guide](https://github.com/prismspecs/art-tech/raw/master/KitPDF.zip) for your kit to get started
 	+ Also, the [Arduino website](https://www.arduino.cc/en/Guide/HomePage) and Google are your friend here
