@@ -1,0 +1,45 @@
+int x = 0; //choose the ANALOG pin that is hooked up to the X value (pin VRx)from the Joystick Module
+int y = 1; //choose the ANALOG pin that is hooked up to the Y value (pin VRy) from the Joystick Module
+int sw = 4; // choose the DIGITAL pin that is hooked up to the switch (pin SW)
+
+
+//Note: Like in Processing - The Joystick's 
+//Top-left is (0,0)... Bottom-right is (maxValue,maxValue)
+//when joystick is pressed in - it returns a 0 
+
+
+void setup() {
+  Serial.begin(9600);
+
+  pinMode(sw,INPUT_PULLUP);
+  
+}
+
+void loop() {
+
+  //Create a variable that reads the values coming from the Joystick
+  //they must be FLOATs because the Joystick is ANALOG and returns a continuous spectrum of values
+  float xVal = analogRead(x);
+  float yVal = analogRead(y);
+  //now an INT to see the button state
+  int swVal = digitalRead(sw);
+
+  //Print the values to the console
+  Serial.print("X: ");                                        //name these whatever you want!
+  Serial.println(xVal); // println to go to the next line
+  Serial.print("Y: ");
+  Serial.println(yVal);
+  
+  //now the button
+  //you'll notice that it is "1" when off, and "0" when pressed. 
+  //This is bc of the Pullup resistor! Make sure to remember this when writing your code!
+  Serial.print("Button: ");
+  Serial.println(swVal);
+
+  //print a BLANK LINE (a return) in order to keep the data readable
+  Serial.print("\n");
+
+  //Slow it down so it's readable in our console
+  delay(500);
+
+}

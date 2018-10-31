@@ -1,0 +1,25 @@
+#include <dht.h>
+
+dht DHT; // define the sensor (remember back to Servo myservo)
+
+int DHTPIN = 7; // choose a pin to use for your sensor 
+
+void setup(){
+  Serial.begin(9600); // enable the window to read the temp and humidity 
+  pinMode(DHTPIN, OUTPUT); // define the DHTPIN, aka pin 7, as the output 
+}
+
+void loop()
+{
+  int chk = DHT.read11(DHTPIN); // read data from the sensor 
+
+  //print temperature data
+  Serial.print("Temperature = ");
+  Serial.println(DHT.temperature);
+
+  //print humidity data
+  Serial.print("Humidity = ");
+  Serial.println(DHT.humidity);
+
+  delay(2000); //delay two seconds in between readings 
+}

@@ -1,0 +1,42 @@
+#define trigPin 10 //this is where the Arduino sends the signal to start
+//the ultrasonic pulse
+#define echoPin 13 // this is where the ultrasonic range finder sends info
+//about the length of time taken by the pulse
+
+void setup() {
+  Serial.begin(9600);
+  pinMode(trigPin, OUTPUT);
+  pinMode(echoPin, INPUT);
+
+}
+
+void loop() {
+  float duration, distance; //delcaration of the 2 needed variables
+  digitalWrite(trigPin, LOW);
+  delayMicroseconds(2);
+
+  digitalWrite(trigPin, HIGH);
+  delayMicroseconds(10);
+  digitalWrite(trigPin, LOW);
+
+  duration = pulseIn(echoPin, HIGH);
+  distance = (duration / 2 ) * 0.0344; 
+  //this is the formula for the speed of sound in air
+  //the creator also took temp and humidity into account
+  //which is why these variables are so specific
+
+   if (distance >= 400 || distance <= 2){ //if the distance is 
+    //greater than or equal to 400 cm, or less than or equal to 2 cm,
+    //the serial monitor will read "out of range"
+    Serial.print("Distance = ");
+    Serial.println("Out of range");
+  }
+  else {
+    Serial.print("Distance = ");
+    Serial.print(distance);
+    Serial.println(" cm");
+    delay(500); //if the distance measurement is not out of range
+    //display the distance calculated in serial monitor
+  }
+  delay(500);
+}
