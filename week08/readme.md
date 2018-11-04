@@ -43,4 +43,8 @@ myPort = new Serial(this, portName, 9600);
 ## Homework
 
 + Make (or modify) a drawing app that uses physical input from Arduino
-+ Seek out and write briefly about 2 physical computing projects that you find interesting, post to Slack
++ Seek out and write briefly about 2 physical computing projects that you find interesting, post to Slack. The following links will help get you started:
+	+ [List of Physcom Artists](http://graysonearle.com/edu/physcom/relevant-projects-artists/)
+	+ ["Arduino" search on Instructables](https://www.instructables.com/technology/arduino/)
+	+ [List of Arduino projects from Hackster](https://www.hackster.io/arduino/projects)
+	+ [List on Pintrest](https://www.pinterest.com/annlepore/physical-computing/)
