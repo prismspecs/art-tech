@@ -15,7 +15,7 @@ It has to look like this:
 
 As a general guide, you'll want to avoid having models like this:
 
-![sketchup-chair1.png](sketchup-chair1.png)
+![sketchup-chair.png](sketchup-chair.png)
 
 The problem being that you want to have the base of your print be the platform for the rest. It's a hard thing to grasp without seeing a failed print, and modern printers can print "supports" that help address this.
 
