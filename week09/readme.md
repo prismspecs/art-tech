@@ -13,3 +13,5 @@
 ## Thursday
 
 ## Homework
+
++ Complete the [Sketchup Assignment](../sketchup/assignment1)
