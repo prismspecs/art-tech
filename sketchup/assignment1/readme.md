@@ -12,3 +12,13 @@ Notice how I can see through the object. The object must be solid in order for 3
 It has to look like this:
 
 ![sketchup-goodbox1.png](sketchup-goodbox1.png)
+
+As a general guide, you'll want to avoid having models like this:
+
+![sketchup-chair1.png](sketchup-chair1.png)
+
+The problem being that you want to have the base of your print be the platform for the rest. It's a hard thing to grasp without seeing a failed print, and modern printers can print "supports" that help address this.
+
+Instead, you might consider making your print biggest at the base and then smaller as it goes up.
+
+![sketchup-abstract1.png](sketchup-abstract1.png)
