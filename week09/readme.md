@@ -12,6 +12,8 @@
 
 ## Thursday
 
++ [Sketchup Free Demo](https://app.sketchup.com/app?hl=en)
+
 ## Homework
 
 + Complete the [Sketchup Assignment](../sketchup/assignment1)
