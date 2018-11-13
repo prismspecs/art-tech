@@ -8,13 +8,15 @@ You will need:
 + A pair of "hobby" motors, which are DC motors geared to turn more slowly but with more torque. I am using [140 RPM motors from Sparkfun](https://www.sparkfun.com/products/13302)
 + A pair of wheels that attach to said motors. These can be digitally fabricated, or you can use [these wheels from Sparkfun](https://www.sparkfun.com/products/13259)
 
-## Guide
+## Wiring
 
 We will use the [official hookup guide from Sparkfun](https://learn.sparkfun.com/tutorials/tb6612fng-hookup-guide) which is fairly complete, but makes use of a different Arduino than we have been working with. I will add some clarity on the matter below.
 
 Modified wiring guide to suit Arduino Uno R3:
 
 ![Modified wiring guide to suit Arduino Uno R3](wiring1.png)
+
+## Code
 
 ```c
 /******************************************************************************
@@ -111,3 +113,7 @@ void loop()
 
 }
 ```
+
+## Fabrication
+
+Many people choose to use [chassis kits](https://www.intorobotics.com/a-list-of-the-best-arduino-robot-car-kits/) to mount the motors, wheels, Arduino, and so on. In this class we will use some very rudimentary materials do construct a DIY robot chassis.
