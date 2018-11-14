@@ -53,5 +53,7 @@ void draw() {
     ellipse(random(width), random(height), 20, 20);
   }
 
+  // make sure to update previousHit so that we know if the audio level
+  // was above or below the threshold the last time we checked
   previousHit = hit;
 }
