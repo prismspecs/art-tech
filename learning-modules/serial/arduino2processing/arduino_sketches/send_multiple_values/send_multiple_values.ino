@@ -6,7 +6,7 @@
 void setup() {
   Serial.begin(9600);
 
-  pinMode(5, INPUT);  // digital pin 5 will connect to a button
+  pinMode(5, INPUT_PULLUP);  // digital pin 5 will connect to a button
 }
 
 void loop() {
