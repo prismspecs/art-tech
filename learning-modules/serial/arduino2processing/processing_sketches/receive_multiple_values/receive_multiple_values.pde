@@ -7,7 +7,7 @@ int[] readings;
 
 void setup() {
   size(500, 500);
-  
+
   printArray(Serial.list());
 
   // we will set up the Serial object with an additional function
@@ -26,12 +26,16 @@ void draw() {
   println(readings);
   println();
 
-  // use incoming serial values to draw to a location
-  float x = map(readings[0], 0, 1023, 0, width);
-  float y = map(readings[1], 0, 1023, 0, height);
+  // only draw the ellipse IF the button is being pressed
+  if (readings[2] == 0) {
 
-  fill(255);
-  ellipse(x, y, 8, 8);
+    // use incoming serial values to draw to a location
+    float x = map(readings[0], 0, 1023, 0, width);
+    float y = map(readings[1], 0, 1023, 0, height);
+
+    fill(255);
+    ellipse(x, y, 8, 8);
+  }
 }
 
 // this event is called whenever there is an incoming value on
