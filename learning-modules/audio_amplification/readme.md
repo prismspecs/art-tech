@@ -23,7 +23,7 @@ After I check your work, you can begin building the amp circuit
 ![](images/6.png)
 ![](images/7.png)
 
-![wiring guide](wiring-pam8302)
+![wiring guide](images/wiring-pam8302)
 
 ```c
 void setup() {
