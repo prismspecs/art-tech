@@ -23,6 +23,7 @@
 + Review 3d printed/laser cut projects
 + Soldering workshop in TIMARA lab
 	+ Use [this guide](../learning-modules/audio_amplification) to follow along
++ Complete wiring of laser-cut-arduino-music-led-box-omagic.
 
 ## Homework
 
